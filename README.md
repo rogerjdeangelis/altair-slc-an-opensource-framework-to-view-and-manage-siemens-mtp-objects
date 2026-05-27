@@ -7,6 +7,7 @@ Altair slc an opensource framework to view and manage siemens mtp objects
     Altair slc an opensource framework to view and manage siemens MTP objects
 
     Too long to post here, see
+    https://github.com/rogerjdeangelis/altair-slc-an-opensource-framework-to-view-and-manage-siemens-mtp-objects
 
     I completely open source viewer is presented for Siemens MTP objects. A web page is created displaying the
     MTP object properties and a button is added to save the page to a png graphic.
